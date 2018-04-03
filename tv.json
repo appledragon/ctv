@@ -17,7 +17,7 @@
         },
         {
           "id": 1,
-          "description": "中視新聞台"
+          "description": "中視新聞台",
 		  "sources": [
             "https://www.youtube.com/watch?v=nnj_19BiG2U"
           ],
@@ -54,7 +54,7 @@
           "title": "夜問打權",
 		  "ischannel": true,
           "studio": ""
-        },
+        }
       ]
     },
 	{
