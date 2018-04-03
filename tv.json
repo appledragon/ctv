@@ -13,6 +13,7 @@
           "card": "https://i.ytimg.com/vi/wUPPkSANpyo/hqdefault_live.jpg",
           "background": "https://i.ytimg.com/vi/wUPPkSANpyo/hqdefault_live.jpg",
           "title": "中天新聞",
+		   "ischannel": false,
           "studio": ""
         },
         {
@@ -24,6 +25,7 @@
           "card": "https://i.ytimg.com/vi/nnj_19BiG2U/hqdefault_live.jpg",
           "background": "https://i.ytimg.com/vi/nnj_19BiG2U/hqdefault_live.jpg",
           "title": "中視新聞台",
+		  "ischannel": false,
           "studio": ""
         }
       ]
