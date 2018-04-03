@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "cata": {
+    "live":"直播",
+    "tw": "中國台灣",
+    "hk":"中國香港"
+  },
+  "live": {
+    "中天新聞": {
+      "url": "https://www.youtube.com/watch?v=wUPPkSANpyo",
+      "logourl": "https://i.ytimg.com/vi/wUPPkSANpyo/hqdefault_live.jpg"
+    },
+    "中視新聞台": {
+      "url": "https://www.youtube.com/watch?v=nnj_19BiG2U",
+      "logourl": "https://i.ytimg.com/vi/nnj_19BiG2U/hqdefault_live.jpg"
+    }
+  },
+  
+  "tw": {
+    "少康戰情室": {
+      "ischannel": true,
+      "url": "https://www.youtube.com/watch?v=wUPPkSANpyo",
+      "logourl": "https://i.ytimg.com/vi/wUPPkSANpyo/hqdefault_live.jpg"
+    },
+    "夜問打權": {
+      "ischannel": true,
+      "url": "https://www.youtube.com/channel/UCQxU-N4tDAWy8utcPl97M9A",
+      "logourl": "hhttps://yt3.ggpht.com/-xMLvuUeVy38/AAAAAAAAAAI/AAAAAAAAAAA/AXylLkSN9z8/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"
+    }
+  },
+  
+  "hk": {
+    "凤凰视频": {
+      "ischannel": true,
+      "url": "https://www.youtube.com/channel/UCHAVHbV2Xan9029VEhT-8iQ",
+      "logourl": "https://yt3.ggpht.com/-hPO1FybN9Fo/AAAAAAAAAAI/AAAAAAAAAAA/J23K_dzx_fk/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"
+    }
+  }
+
+}
