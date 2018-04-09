@@ -37,10 +37,10 @@
           "id": 100,
           "description": "少康戰情室",
           "sources": [
-            "https://www.youtube.com/watch?v=wUPPkSANpyo"
+            "https://www.youtube.com/channel/UCLZBXiS9ZrIXgKBs_SMfGBQ"
           ],
-          "card": "https://i.ytimg.com/vi/wUPPkSANpyo/hqdefault_live.jpg",
-          "background": "https://i.ytimg.com/vi/wUPPkSANpyo/hqdefault_live.jpg",
+          "card": "https://yt3.ggpht.com/-yNyklmwUzuU/AAAAAAAAAAI/AAAAAAAAAAA/d5TSBz3ZIQY/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+          "background": "https://yt3.ggpht.com/-yNyklmwUzuU/AAAAAAAAAAI/AAAAAAAAAAA/d5TSBz3ZIQY/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
           "title": "少康戰情室",
 		  "ischannel": true,
           "studio": ""
